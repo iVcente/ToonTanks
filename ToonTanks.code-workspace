@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "ToonTanks",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/Users/Shared/Epic Games/UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"/Users/vicente/Projects/Unreal/ToonTanks/Intermediate/Build/Mac/x86_64/UE4Editor/Development/ToonTanks/Definitions.ToonTanks.h",
+			"/Users/vicente/Projects/Unreal/ToonTanks/Intermediate/Build/Mac/x86_64/ToonTanksEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
+		],
+		"C_Cpp.autocomplete": "Disabled",
+		"C_Cpp.configurationWarnings": "Disabled",
+		"C_Cpp.codeFolding": "Disabled",
+		"editor.acceptSuggestionOnCommitCharacter": false,
+		"editor.acceptSuggestionOnEnter": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}
